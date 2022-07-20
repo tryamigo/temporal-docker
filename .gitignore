@@ -1,2 +1,4 @@
 .idea
 .pki
+data/*
+!data/readme.md
